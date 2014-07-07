@@ -1,0 +1,1 @@
+<a href=index.php?action=add>新增</a>
