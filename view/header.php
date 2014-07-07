@@ -2,6 +2,6 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>xxx</title>
+<title>MVC (Model View Control)</title>
 </head>
 <body>
